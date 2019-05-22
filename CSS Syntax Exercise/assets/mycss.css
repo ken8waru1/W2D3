@@ -1,0 +1,32 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: hotpink
+}
+
+h1 {
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+ul.ingredients {
+  list-style: square inside;
+}
+
+ol {
+  list-style: circle inside; 
+}
+
+header > img { 
+  width: 100px; 
+}
+
+ul > li > a {
+  text-decoration: none;
+}
+
+.user_review {
+  font-family: 'Times New Roman', Times, serif
+}
